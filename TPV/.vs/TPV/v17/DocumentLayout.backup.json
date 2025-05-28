@@ -1,237 +1,237 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\",
+  "WorkspaceRootPath": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D4D30486-3D32-4B2A-87AC-13E300B463DD}|Datos\\Datos.csproj|c:\\casa\\tfg\\tfgunaipastor\\tpv\\datos\\servicios\\productom\u00E9todos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4D30486-3D32-4B2A-87AC-13E300B463DD}|Datos\\Datos.csproj|solutionrelative:datos\\servicios\\productom\u00E9todos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|c:\\casa\\tfg\\tfgunaipastor\\tpv\\tpv\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|solutionrelative:tpv\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4D30486-3D32-4B2A-87AC-13E300B463DD}|Datos\\Datos.csproj|C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\datos\\servicios\\ajustesmetodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4D30486-3D32-4B2A-87AC-13E300B463DD}|Datos\\Datos.csproj|solutionrelative:datos\\servicios\\ajustesmetodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4D30486-3D32-4B2A-87AC-13E300B463DD}|Datos\\Datos.csproj|C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\datos\\servicios\\usuariometodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4D30486-3D32-4B2A-87AC-13E300B463DD}|Datos\\Datos.csproj|solutionrelative:datos\\servicios\\usuariometodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D193853-2A79-49B7-84A2-CF142DE7E3D3}|Negocio\\Negocio.csproj|C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\negocio\\servicios\\usuarioservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D193853-2A79-49B7-84A2-CF142DE7E3D3}|Negocio\\Negocio.csproj|solutionrelative:negocio\\servicios\\usuarioservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D193853-2A79-49B7-84A2-CF142DE7E3D3}|Negocio\\Negocio.csproj|C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\negocio\\modelos\\usuarionegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D193853-2A79-49B7-84A2-CF142DE7E3D3}|Negocio\\Negocio.csproj|solutionrelative:negocio\\modelos\\usuarionegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D193853-2A79-49B7-84A2-CF142DE7E3D3}|Negocio\\Negocio.csproj|C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\negocio\\servicios\\ajustesservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1D193853-2A79-49B7-84A2-CF142DE7E3D3}|Negocio\\Negocio.csproj|solutionrelative:negocio\\servicios\\ajustesservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4D30486-3D32-4B2A-87AC-13E300B463DD}|Datos\\Datos.csproj|C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\datos\\servicios\\facturam\u00E9todos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4D30486-3D32-4B2A-87AC-13E300B463DD}|Datos\\Datos.csproj|solutionrelative:datos\\servicios\\facturam\u00E9todos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4D30486-3D32-4B2A-87AC-13E300B463DD}|Datos\\Datos.csproj|C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\datos\\funciones\\migrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4D30486-3D32-4B2A-87AC-13E300B463DD}|Datos\\Datos.csproj|solutionrelative:datos\\funciones\\migrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D4D30486-3D32-4B2A-87AC-13E300B463DD}|Datos\\Datos.csproj|C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\datos\\conexiones\\conexiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D4D30486-3D32-4B2A-87AC-13E300B463DD}|Datos\\Datos.csproj|solutionrelative:datos\\conexiones\\conexiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\tpv\\views\\mostrar\\ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|solutionrelative:tpv\\views\\mostrar\\ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\tpv\\views\\mostrar\\ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|solutionrelative:tpv\\views\\mostrar\\ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\tpv\\views\\registros\\registrousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|solutionrelative:tpv\\views\\registros\\registrousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\tpv\\views\\registros\\registrousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|solutionrelative:tpv\\views\\registros\\registrousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\tpv\\views\\registros\\registroempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|solutionrelative:tpv\\views\\registros\\registroempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\tpv\\views\\registros\\registroempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|solutionrelative:tpv\\views\\registros\\registroempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\tpv\\views\\landings\\landingusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|solutionrelative:tpv\\views\\landings\\landingusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\tpv\\views\\landings\\landingusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|solutionrelative:tpv\\views\\landings\\landingusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\tpv\\views\\mostrar\\mostrarfacturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|solutionrelative:tpv\\views\\mostrar\\mostrarfacturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1D193853-2A79-49B7-84A2-CF142DE7E3D3}|Negocio\\Negocio.csproj|C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\negocio\\servicios\\facturaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1D193853-2A79-49B7-84A2-CF142DE7E3D3}|Negocio\\Negocio.csproj|C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\negocio\\servicios\\facturaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D193853-2A79-49B7-84A2-CF142DE7E3D3}|Negocio\\Negocio.csproj|solutionrelative:negocio\\servicios\\facturaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\tpv\\views\\mostrar\\cobrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D4D30486-3D32-4B2A-87AC-13E300B463DD}|Datos\\Datos.csproj|c:\\users\\unaip\\onedrive\\documentos\\pruebainstalar\\inst\\github\\tfg\\tpv\\datos\\servicios\\productom\u00E9todos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D30486-3D32-4B2A-87AC-13E300B463DD}|Datos\\Datos.csproj|solutionrelative:datos\\servicios\\productom\u00E9todos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\tpv\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|solutionrelative:tpv\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D30486-3D32-4B2A-87AC-13E300B463DD}|Datos\\Datos.csproj|C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\datos\\servicios\\ajustesmetodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D30486-3D32-4B2A-87AC-13E300B463DD}|Datos\\Datos.csproj|solutionrelative:datos\\servicios\\ajustesmetodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D30486-3D32-4B2A-87AC-13E300B463DD}|Datos\\Datos.csproj|C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\datos\\servicios\\usuariometodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D30486-3D32-4B2A-87AC-13E300B463DD}|Datos\\Datos.csproj|solutionrelative:datos\\servicios\\usuariometodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D193853-2A79-49B7-84A2-CF142DE7E3D3}|Negocio\\Negocio.csproj|C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\negocio\\servicios\\usuarioservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D193853-2A79-49B7-84A2-CF142DE7E3D3}|Negocio\\Negocio.csproj|solutionrelative:negocio\\servicios\\usuarioservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D193853-2A79-49B7-84A2-CF142DE7E3D3}|Negocio\\Negocio.csproj|C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\negocio\\modelos\\usuarionegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D193853-2A79-49B7-84A2-CF142DE7E3D3}|Negocio\\Negocio.csproj|solutionrelative:negocio\\modelos\\usuarionegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D193853-2A79-49B7-84A2-CF142DE7E3D3}|Negocio\\Negocio.csproj|C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\negocio\\servicios\\ajustesservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D193853-2A79-49B7-84A2-CF142DE7E3D3}|Negocio\\Negocio.csproj|solutionrelative:negocio\\servicios\\ajustesservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D30486-3D32-4B2A-87AC-13E300B463DD}|Datos\\Datos.csproj|C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\datos\\servicios\\facturam\u00E9todos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D30486-3D32-4B2A-87AC-13E300B463DD}|Datos\\Datos.csproj|solutionrelative:datos\\servicios\\facturam\u00E9todos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D30486-3D32-4B2A-87AC-13E300B463DD}|Datos\\Datos.csproj|C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\datos\\funciones\\migrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D30486-3D32-4B2A-87AC-13E300B463DD}|Datos\\Datos.csproj|solutionrelative:datos\\funciones\\migrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4D30486-3D32-4B2A-87AC-13E300B463DD}|Datos\\Datos.csproj|C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\datos\\conexiones\\conexiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4D30486-3D32-4B2A-87AC-13E300B463DD}|Datos\\Datos.csproj|solutionrelative:datos\\conexiones\\conexiones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\tpv\\views\\mostrar\\ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|solutionrelative:tpv\\views\\mostrar\\ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\tpv\\views\\mostrar\\ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|solutionrelative:tpv\\views\\mostrar\\ventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\tpv\\views\\registros\\registrousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|solutionrelative:tpv\\views\\registros\\registrousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\tpv\\views\\registros\\registrousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|solutionrelative:tpv\\views\\registros\\registrousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\tpv\\views\\registros\\registroempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|solutionrelative:tpv\\views\\registros\\registroempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\tpv\\views\\registros\\registroempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|solutionrelative:tpv\\views\\registros\\registroempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\tpv\\views\\landings\\landingusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|solutionrelative:tpv\\views\\landings\\landingusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\tpv\\views\\landings\\landingusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|solutionrelative:tpv\\views\\landings\\landingusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\tpv\\views\\mostrar\\mostrarfacturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|solutionrelative:tpv\\views\\mostrar\\mostrarfacturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\tpv\\views\\mostrar\\cobrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|solutionrelative:tpv\\views\\mostrar\\cobrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\tpv\\views\\mostrar\\cobrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\tpv\\views\\mostrar\\cobrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|solutionrelative:tpv\\views\\mostrar\\cobrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\tpv\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\tpv\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|solutionrelative:tpv\\inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\tpv\\views\\iniciosesion\\iniciosesionusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\tpv\\views\\iniciosesion\\iniciosesionusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|solutionrelative:tpv\\views\\iniciosesion\\iniciosesionusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\tpv\\views\\iniciosesion\\iniciosesi\u00F3nadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\tpv\\views\\iniciosesion\\iniciosesi\u00F3nadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|solutionrelative:tpv\\views\\iniciosesion\\iniciosesi\u00F3nadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\tpv\\views\\landings\\landingadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\tpv\\views\\landings\\landingadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|solutionrelative:tpv\\views\\landings\\landingadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\tpv\\views\\menu\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\tpv\\views\\menu\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|solutionrelative:tpv\\views\\menu\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\tpv\\views\\mostrar\\ajusteslandingusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\tpv\\views\\mostrar\\ajusteslandingusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|solutionrelative:tpv\\views\\mostrar\\ajusteslandingusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\tpv\\views\\mostrar\\cantidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\tpv\\views\\mostrar\\cantidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|solutionrelative:tpv\\views\\mostrar\\cantidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\tpv\\views\\mostrar\\cantidaddecimales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\tpv\\views\\mostrar\\cantidaddecimales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|solutionrelative:tpv\\views\\mostrar\\cantidaddecimales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\tpv\\views\\mostrar\\cantidaddecimales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\tpv\\views\\mostrar\\cantidaddecimales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|solutionrelative:tpv\\views\\mostrar\\cantidaddecimales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\tpv\\views\\mostrar\\confirmarcierrecaja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\tpv\\views\\mostrar\\confirmarcierrecaja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|solutionrelative:tpv\\views\\mostrar\\confirmarcierrecaja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\tpv\\views\\mostrar\\confirmarcierrecaja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\tpv\\views\\mostrar\\confirmarcierrecaja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|solutionrelative:tpv\\views\\mostrar\\confirmarcierrecaja.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\tpv\\views\\mostrar\\mostrarproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\tpv\\views\\mostrar\\mostrarproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|solutionrelative:tpv\\views\\mostrar\\mostrarproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\tpv\\views\\mostrar\\mostrarproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\tpv\\views\\mostrar\\mostrarproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|solutionrelative:tpv\\views\\mostrar\\mostrarproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\tpv\\views\\mostrar\\mostrarusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\tpv\\views\\mostrar\\mostrarusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|solutionrelative:tpv\\views\\mostrar\\mostrarusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\tpv\\views\\mostrar\\mostrarusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\tpv\\views\\mostrar\\mostrarusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|solutionrelative:tpv\\views\\mostrar\\mostrarusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\tpv\\views\\mostrar\\tracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\tpv\\views\\mostrar\\tracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|solutionrelative:tpv\\views\\mostrar\\tracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\tpv\\views\\registros\\ajustes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\tpv\\views\\registros\\ajustes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|solutionrelative:tpv\\views\\registros\\ajustes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\tpv\\views\\registros\\ajustes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\tpv\\views\\registros\\ajustes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|solutionrelative:tpv\\views\\registros\\ajustes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\tpv\\views\\registros\\registroproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\tpv\\views\\registros\\registroproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|solutionrelative:tpv\\views\\registros\\registroproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\tpv\\views\\mostrar\\mostrarfacturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\tpv\\views\\mostrar\\mostrarfacturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|solutionrelative:tpv\\views\\mostrar\\mostrarfacturas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4D30486-3D32-4B2A-87AC-13E300B463DD}|Datos\\Datos.csproj|C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\datos\\servicios\\facposmetodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D4D30486-3D32-4B2A-87AC-13E300B463DD}|Datos\\Datos.csproj|C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\datos\\servicios\\facposmetodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4D30486-3D32-4B2A-87AC-13E300B463DD}|Datos\\Datos.csproj|solutionrelative:datos\\servicios\\facposmetodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4D30486-3D32-4B2A-87AC-13E300B463DD}|Datos\\Datos.csproj|C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\datos\\modelos\\facturadatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D4D30486-3D32-4B2A-87AC-13E300B463DD}|Datos\\Datos.csproj|C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\datos\\modelos\\facturadatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4D30486-3D32-4B2A-87AC-13E300B463DD}|Datos\\Datos.csproj|solutionrelative:datos\\modelos\\facturadatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\tpv\\views\\mostrar\\mostrarproductos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\tpv\\views\\mostrar\\mostrarproductos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|solutionrelative:tpv\\views\\mostrar\\mostrarproductos.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\tpv\\views\\landings\\landingadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\tpv\\views\\landings\\landingadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|solutionrelative:tpv\\views\\landings\\landingadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\tpv\\views\\landings\\landingusuario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\tpv\\views\\landings\\landingusuario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|solutionrelative:tpv\\views\\landings\\landingusuario.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\tpv\\views\\iniciosesion\\iniciosesionusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\tpv\\views\\iniciosesion\\iniciosesionusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|solutionrelative:tpv\\views\\iniciosesion\\iniciosesionusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\tpv\\views\\registros\\registroproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\tpv\\views\\registros\\registroproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|solutionrelative:tpv\\views\\registros\\registroproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D193853-2A79-49B7-84A2-CF142DE7E3D3}|Negocio\\Negocio.csproj|C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\negocio\\modelos\\facturanegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1D193853-2A79-49B7-84A2-CF142DE7E3D3}|Negocio\\Negocio.csproj|C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\negocio\\modelos\\facturanegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D193853-2A79-49B7-84A2-CF142DE7E3D3}|Negocio\\Negocio.csproj|solutionrelative:negocio\\modelos\\facturanegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\tpv\\views\\mostrar\\cantidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\tpv\\views\\mostrar\\cantidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|solutionrelative:tpv\\views\\mostrar\\cantidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4D30486-3D32-4B2A-87AC-13E300B463DD}|Datos\\Datos.csproj|C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\datos\\servicios\\trackingmetodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D4D30486-3D32-4B2A-87AC-13E300B463DD}|Datos\\Datos.csproj|C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\datos\\servicios\\trackingmetodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4D30486-3D32-4B2A-87AC-13E300B463DD}|Datos\\Datos.csproj|solutionrelative:datos\\servicios\\trackingmetodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D193853-2A79-49B7-84A2-CF142DE7E3D3}|Negocio\\Negocio.csproj|C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\negocio\\servicios\\trackservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1D193853-2A79-49B7-84A2-CF142DE7E3D3}|Negocio\\Negocio.csproj|C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\negocio\\servicios\\trackservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D193853-2A79-49B7-84A2-CF142DE7E3D3}|Negocio\\Negocio.csproj|solutionrelative:negocio\\servicios\\trackservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\tpv\\views\\mostrar\\tracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\tpv\\views\\mostrar\\tracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|solutionrelative:tpv\\views\\mostrar\\tracking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\tpv\\views\\mostrar\\mostrarfacturas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\tpv\\views\\mostrar\\mostrarfacturas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{483EE20F-54E1-4564-B513-5B306A88DA98}|TPV\\TPV.csproj|solutionrelative:tpv\\views\\mostrar\\mostrarfacturas.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D193853-2A79-49B7-84A2-CF142DE7E3D3}|Negocio\\Negocio.csproj|C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\negocio\\servicios\\productoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1D193853-2A79-49B7-84A2-CF142DE7E3D3}|Negocio\\Negocio.csproj|C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\negocio\\servicios\\productoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D193853-2A79-49B7-84A2-CF142DE7E3D3}|Negocio\\Negocio.csproj|solutionrelative:negocio\\servicios\\productoservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D4D30486-3D32-4B2A-87AC-13E300B463DD}|Datos\\Datos.csproj|C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\datos\\modelos\\productodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D4D30486-3D32-4B2A-87AC-13E300B463DD}|Datos\\Datos.csproj|C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\datos\\modelos\\productodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D4D30486-3D32-4B2A-87AC-13E300B463DD}|Datos\\Datos.csproj|solutionrelative:datos\\modelos\\productodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1D193853-2A79-49B7-84A2-CF142DE7E3D3}|Negocio\\Negocio.csproj|C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\negocio\\modelos\\productonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1D193853-2A79-49B7-84A2-CF142DE7E3D3}|Negocio\\Negocio.csproj|C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\negocio\\modelos\\productonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1D193853-2A79-49B7-84A2-CF142DE7E3D3}|Negocio\\Negocio.csproj|solutionrelative:negocio\\modelos\\productonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -242,36 +242,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "packages.config",
-              "DocumentMoniker": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\packages.config",
+              "DocumentMoniker": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\TPV\\packages.config",
               "RelativeDocumentMoniker": "TPV\\packages.config",
-              "ToolTip": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\packages.config",
+              "ToolTip": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\TPV\\packages.config",
               "RelativeToolTip": "TPV\\packages.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-05-19T12:02:29.64Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T12:02:29.64Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ProductoM\u00E9todos.cs",
-              "DocumentMoniker": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\Datos\\Servicios\\ProductoM\u00E9todos.cs",
+              "DocumentMoniker": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\Datos\\Servicios\\ProductoM\u00E9todos.cs",
               "RelativeDocumentMoniker": "Datos\\Servicios\\ProductoM\u00E9todos.cs",
-              "ToolTip": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\Datos\\Servicios\\ProductoM\u00E9todos.cs",
+              "ToolTip": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\Datos\\Servicios\\ProductoM\u00E9todos.cs",
               "RelativeToolTip": "Datos\\Servicios\\ProductoM\u00E9todos.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -280,711 +275,660 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "UsuarioMetodos.cs",
-              "DocumentMoniker": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\Datos\\Servicios\\UsuarioMetodos.cs",
+              "DocumentMoniker": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\Datos\\Servicios\\UsuarioMetodos.cs",
               "RelativeDocumentMoniker": "Datos\\Servicios\\UsuarioMetodos.cs",
-              "ToolTip": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\Datos\\Servicios\\UsuarioMetodos.cs",
+              "ToolTip": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\Datos\\Servicios\\UsuarioMetodos.cs",
               "RelativeToolTip": "Datos\\Servicios\\UsuarioMetodos.cs",
               "ViewState": "AgIAALAAAAAA5MzMzMwqwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T11:11:09.3Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UsuarioServicio.cs",
-              "DocumentMoniker": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\Negocio\\Servicios\\UsuarioServicio.cs",
-              "RelativeDocumentMoniker": "Negocio\\Servicios\\UsuarioServicio.cs",
-              "ToolTip": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\Negocio\\Servicios\\UsuarioServicio.cs",
-              "RelativeToolTip": "Negocio\\Servicios\\UsuarioServicio.cs",
-              "ViewState": "AgIAAC0AAADA9v////8swAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T11:10:57.836Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AjustesMetodos.cs",
-              "DocumentMoniker": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\Datos\\Servicios\\AjustesMetodos.cs",
-              "RelativeDocumentMoniker": "Datos\\Servicios\\AjustesMetodos.cs",
-              "ToolTip": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\Datos\\Servicios\\AjustesMetodos.cs",
-              "RelativeToolTip": "Datos\\Servicios\\AjustesMetodos.cs",
-              "ViewState": "AgIAACUAAACAMDMzM/MuwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T11:01:26.727Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Migrador.cs",
-              "DocumentMoniker": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\Datos\\Funciones\\Migrador.cs",
-              "RelativeDocumentMoniker": "Datos\\Funciones\\Migrador.cs",
-              "ToolTip": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\Datos\\Funciones\\Migrador.cs",
-              "RelativeToolTip": "Datos\\Funciones\\Migrador.cs",
-              "ViewState": "AgIAABEAAACALzMzM7MRwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T11:01:08.453Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AjustesServicio.cs",
-              "DocumentMoniker": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\Negocio\\Servicios\\AjustesServicio.cs",
-              "RelativeDocumentMoniker": "Negocio\\Servicios\\AjustesServicio.cs",
-              "ToolTip": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\Negocio\\Servicios\\AjustesServicio.cs",
-              "RelativeToolTip": "Negocio\\Servicios\\AjustesServicio.cs",
-              "ViewState": "AgIAAAsAAACgMjMzM/M2wA0AAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T08:21:55.13Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "FacturaM\u00E9todos.cs",
-              "DocumentMoniker": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\Datos\\Servicios\\FacturaM\u00E9todos.cs",
-              "RelativeDocumentMoniker": "Datos\\Servicios\\FacturaM\u00E9todos.cs",
-              "ToolTip": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\Datos\\Servicios\\FacturaM\u00E9todos.cs",
-              "RelativeToolTip": "Datos\\Servicios\\FacturaM\u00E9todos.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAcwKAAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T13:45:34.386Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T11:11:09.3Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "UsuarioNegocio.cs",
-              "DocumentMoniker": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\Negocio\\Modelos\\UsuarioNegocio.cs",
-              "RelativeDocumentMoniker": "Negocio\\Modelos\\UsuarioNegocio.cs",
-              "ToolTip": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\Negocio\\Modelos\\UsuarioNegocio.cs",
-              "RelativeToolTip": "Negocio\\Modelos\\UsuarioNegocio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAbAAAAAAAAAA==",
+              "Title": "UsuarioServicio.cs",
+              "DocumentMoniker": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\Negocio\\Servicios\\UsuarioServicio.cs",
+              "RelativeDocumentMoniker": "Negocio\\Servicios\\UsuarioServicio.cs",
+              "ToolTip": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\Negocio\\Servicios\\UsuarioServicio.cs",
+              "RelativeToolTip": "Negocio\\Servicios\\UsuarioServicio.cs",
+              "ViewState": "AgIAAC0AAADA9v////8swAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T10:12:21.165Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T11:10:57.836Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Ventas.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Mostrar\\Ventas.cs",
-              "RelativeDocumentMoniker": "TPV\\Views\\Mostrar\\Ventas.cs",
-              "ToolTip": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Mostrar\\Ventas.cs [Dise\u00F1o]",
-              "RelativeToolTip": "TPV\\Views\\Mostrar\\Ventas.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T12:49:21.919Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "RegistroUsuario.cs",
-              "DocumentMoniker": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Registros\\RegistroUsuario.cs",
-              "RelativeDocumentMoniker": "TPV\\Views\\Registros\\RegistroUsuario.cs",
-              "ToolTip": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Registros\\RegistroUsuario.cs",
-              "RelativeToolTip": "TPV\\Views\\Registros\\RegistroUsuario.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAYwBoAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T08:09:02.889Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "RegistroUsuario.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Registros\\RegistroUsuario.cs",
-              "RelativeDocumentMoniker": "TPV\\Views\\Registros\\RegistroUsuario.cs",
-              "ToolTip": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Registros\\RegistroUsuario.cs [Dise\u00F1o]",
-              "RelativeToolTip": "TPV\\Views\\Registros\\RegistroUsuario.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T07:16:45.013Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Ventas.cs",
-              "DocumentMoniker": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Mostrar\\Ventas.cs",
-              "RelativeDocumentMoniker": "TPV\\Views\\Mostrar\\Ventas.cs",
-              "ToolTip": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Mostrar\\Ventas.cs",
-              "RelativeToolTip": "TPV\\Views\\Mostrar\\Ventas.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAIApwD4AAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T12:49:24.059Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Conexiones.cs",
-              "DocumentMoniker": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\Datos\\Conexiones\\Conexiones.cs",
-              "RelativeDocumentMoniker": "Datos\\Conexiones\\Conexiones.cs",
-              "ToolTip": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\Datos\\Conexiones\\Conexiones.cs",
-              "RelativeToolTip": "Datos\\Conexiones\\Conexiones.cs",
-              "ViewState": "AgIAABoAAACAZmZmZqYgwBgAAABuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-18T23:55:01.872Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "RegistroEmpleado.cs",
-              "DocumentMoniker": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Registros\\RegistroEmpleado.cs",
-              "RelativeDocumentMoniker": "TPV\\Views\\Registros\\RegistroEmpleado.cs",
-              "ToolTip": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Registros\\RegistroEmpleado.cs",
-              "RelativeToolTip": "TPV\\Views\\Registros\\RegistroEmpleado.cs",
-              "ViewState": "AgIAABEAAAAAzMzMzMwEwBoAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T08:09:23.556Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "RegistroEmpleado.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Registros\\RegistroEmpleado.cs",
-              "RelativeDocumentMoniker": "TPV\\Views\\Registros\\RegistroEmpleado.cs",
-              "ToolTip": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Registros\\RegistroEmpleado.cs [Dise\u00F1o]",
-              "RelativeToolTip": "TPV\\Views\\Registros\\RegistroEmpleado.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T07:28:09.316Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "LandingUsuario.cs",
-              "DocumentMoniker": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Landings\\LandingUsuario.cs",
-              "RelativeDocumentMoniker": "TPV\\Views\\Landings\\LandingUsuario.cs",
-              "ToolTip": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Landings\\LandingUsuario.cs",
-              "RelativeToolTip": "TPV\\Views\\Landings\\LandingUsuario.cs",
-              "ViewState": "AgIAAG4BAABAV2ZmZiYhwJABAABdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T10:55:09.111Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "LandingUsuario.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Landings\\LandingUsuario.cs",
-              "RelativeDocumentMoniker": "TPV\\Views\\Landings\\LandingUsuario.cs",
-              "ToolTip": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Landings\\LandingUsuario.cs [Dise\u00F1o]",
-              "RelativeToolTip": "TPV\\Views\\Landings\\LandingUsuario.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T15:17:32.721Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "MostrarFacturas.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Mostrar\\MostrarFacturas.cs",
-              "RelativeDocumentMoniker": "TPV\\Views\\Mostrar\\MostrarFacturas.cs",
-              "ToolTip": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Mostrar\\MostrarFacturas.cs [Dise\u00F1o]",
-              "RelativeToolTip": "TPV\\Views\\Mostrar\\MostrarFacturas.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T07:22:51.131Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "InicioSesi\u00F3nAdmin.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\InicioSesion\\InicioSesi\u00F3nAdmin.cs",
-              "RelativeDocumentMoniker": "TPV\\Views\\InicioSesion\\InicioSesi\u00F3nAdmin.cs",
-              "ToolTip": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\InicioSesion\\InicioSesi\u00F3nAdmin.cs [Dise\u00F1o]",
-              "RelativeToolTip": "TPV\\Views\\InicioSesion\\InicioSesi\u00F3nAdmin.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T09:29:25.008Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 0,
               "Title": "FacturaServicio.cs",
-              "DocumentMoniker": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\Negocio\\Servicios\\FacturaServicio.cs",
+              "DocumentMoniker": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\Negocio\\Servicios\\FacturaServicio.cs",
               "RelativeDocumentMoniker": "Negocio\\Servicios\\FacturaServicio.cs",
-              "ToolTip": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\Negocio\\Servicios\\FacturaServicio.cs",
+              "ToolTip": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\Negocio\\Servicios\\FacturaServicio.cs",
               "RelativeToolTip": "Negocio\\Servicios\\FacturaServicio.cs",
-              "ViewState": "AgIAAB4AAACAzszMzMwRwBMAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAACAZmZmZiYiwIsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-07T13:49:04.407Z",
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AjustesMetodos.cs",
+              "DocumentMoniker": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\Datos\\Servicios\\AjustesMetodos.cs",
+              "RelativeDocumentMoniker": "Datos\\Servicios\\AjustesMetodos.cs",
+              "ToolTip": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\Datos\\Servicios\\AjustesMetodos.cs",
+              "RelativeToolTip": "Datos\\Servicios\\AjustesMetodos.cs",
+              "ViewState": "AgIAACUAAACAMDMzM/MuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T11:01:26.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Migrador.cs",
+              "DocumentMoniker": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\Datos\\Funciones\\Migrador.cs",
+              "RelativeDocumentMoniker": "Datos\\Funciones\\Migrador.cs",
+              "ToolTip": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\Datos\\Funciones\\Migrador.cs",
+              "RelativeToolTip": "Datos\\Funciones\\Migrador.cs",
+              "ViewState": "AgIAABEAAACALzMzM7MRwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T11:01:08.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AjustesServicio.cs",
+              "DocumentMoniker": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\Negocio\\Servicios\\AjustesServicio.cs",
+              "RelativeDocumentMoniker": "Negocio\\Servicios\\AjustesServicio.cs",
+              "ToolTip": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\Negocio\\Servicios\\AjustesServicio.cs",
+              "RelativeToolTip": "Negocio\\Servicios\\AjustesServicio.cs",
+              "ViewState": "AgIAAAsAAACgMjMzM/M2wA0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T08:21:55.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FacturaM\u00E9todos.cs",
+              "DocumentMoniker": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\Datos\\Servicios\\FacturaM\u00E9todos.cs",
+              "RelativeDocumentMoniker": "Datos\\Servicios\\FacturaM\u00E9todos.cs",
+              "ToolTip": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\Datos\\Servicios\\FacturaM\u00E9todos.cs",
+              "RelativeToolTip": "Datos\\Servicios\\FacturaM\u00E9todos.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwKAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T13:45:34.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsuarioNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\Negocio\\Modelos\\UsuarioNegocio.cs",
+              "RelativeDocumentMoniker": "Negocio\\Modelos\\UsuarioNegocio.cs",
+              "ToolTip": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\Negocio\\Modelos\\UsuarioNegocio.cs",
+              "RelativeToolTip": "Negocio\\Modelos\\UsuarioNegocio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T10:12:21.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Ventas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\TPV\\Views\\Mostrar\\Ventas.cs",
+              "RelativeDocumentMoniker": "TPV\\Views\\Mostrar\\Ventas.cs",
+              "ToolTip": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Mostrar\\Ventas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Mostrar\\Ventas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T12:49:21.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegistroUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\TPV\\Views\\Registros\\RegistroUsuario.cs",
+              "RelativeDocumentMoniker": "TPV\\Views\\Registros\\RegistroUsuario.cs",
+              "ToolTip": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\TPV\\Views\\Registros\\RegistroUsuario.cs",
+              "RelativeToolTip": "TPV\\Views\\Registros\\RegistroUsuario.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwBoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T08:09:02.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegistroUsuario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\TPV\\Views\\Registros\\RegistroUsuario.cs",
+              "RelativeDocumentMoniker": "TPV\\Views\\Registros\\RegistroUsuario.cs",
+              "ToolTip": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Registros\\RegistroUsuario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Registros\\RegistroUsuario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T07:16:45.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Ventas.cs",
+              "DocumentMoniker": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\TPV\\Views\\Mostrar\\Ventas.cs",
+              "RelativeDocumentMoniker": "TPV\\Views\\Mostrar\\Ventas.cs",
+              "ToolTip": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\TPV\\Views\\Mostrar\\Ventas.cs",
+              "RelativeToolTip": "TPV\\Views\\Mostrar\\Ventas.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAIApwD4AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T12:49:24.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Conexiones.cs",
+              "DocumentMoniker": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\Datos\\Conexiones\\Conexiones.cs",
+              "RelativeDocumentMoniker": "Datos\\Conexiones\\Conexiones.cs",
+              "ToolTip": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\Datos\\Conexiones\\Conexiones.cs",
+              "RelativeToolTip": "Datos\\Conexiones\\Conexiones.cs",
+              "ViewState": "AgIAABoAAACAZmZmZqYgwBgAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T23:55:01.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegistroEmpleado.cs",
+              "DocumentMoniker": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\TPV\\Views\\Registros\\RegistroEmpleado.cs",
+              "RelativeDocumentMoniker": "TPV\\Views\\Registros\\RegistroEmpleado.cs",
+              "ToolTip": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\TPV\\Views\\Registros\\RegistroEmpleado.cs",
+              "RelativeToolTip": "TPV\\Views\\Registros\\RegistroEmpleado.cs",
+              "ViewState": "AgIAABEAAAAAzMzMzMwEwBoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T08:09:23.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RegistroEmpleado.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\TPV\\Views\\Registros\\RegistroEmpleado.cs",
+              "RelativeDocumentMoniker": "TPV\\Views\\Registros\\RegistroEmpleado.cs",
+              "ToolTip": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Registros\\RegistroEmpleado.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Registros\\RegistroEmpleado.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T07:28:09.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LandingUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\TPV\\Views\\Landings\\LandingUsuario.cs",
+              "RelativeDocumentMoniker": "TPV\\Views\\Landings\\LandingUsuario.cs",
+              "ToolTip": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\TPV\\Views\\Landings\\LandingUsuario.cs",
+              "RelativeToolTip": "TPV\\Views\\Landings\\LandingUsuario.cs",
+              "ViewState": "AgIAAG4BAABAV2ZmZiYhwJABAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T10:55:09.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LandingUsuario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\TPV\\Views\\Landings\\LandingUsuario.cs",
+              "RelativeDocumentMoniker": "TPV\\Views\\Landings\\LandingUsuario.cs",
+              "ToolTip": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Landings\\LandingUsuario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Landings\\LandingUsuario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T15:17:32.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MostrarFacturas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\TPV\\Views\\Mostrar\\MostrarFacturas.cs",
+              "RelativeDocumentMoniker": "TPV\\Views\\Mostrar\\MostrarFacturas.cs",
+              "ToolTip": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Mostrar\\MostrarFacturas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Mostrar\\MostrarFacturas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T07:22:51.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "InicioSesi\u00F3nAdmin.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\TPV\\Views\\InicioSesion\\InicioSesi\u00F3nAdmin.cs",
+              "RelativeDocumentMoniker": "TPV\\Views\\InicioSesion\\InicioSesi\u00F3nAdmin.cs",
+              "ToolTip": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\InicioSesion\\InicioSesi\u00F3nAdmin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\InicioSesion\\InicioSesi\u00F3nAdmin.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T09:29:25.008Z"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 22,
               "Title": "Inicio.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Inicio.cs",
+              "DocumentMoniker": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\TPV\\Inicio.cs",
               "RelativeDocumentMoniker": "TPV\\Inicio.cs",
               "ToolTip": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Inicio.cs [Dise\u00F1o]",
-              "RelativeToolTip": "TPV\\Inicio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Inicio.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T09:29:50.221Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-05-08T09:29:50.221Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
               "Title": "InicioSesionUsuario.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\InicioSesion\\InicioSesionUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\TPV\\Views\\InicioSesion\\InicioSesionUsuario.cs",
               "RelativeDocumentMoniker": "TPV\\Views\\InicioSesion\\InicioSesionUsuario.cs",
               "ToolTip": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\InicioSesion\\InicioSesionUsuario.cs [Dise\u00F1o]",
-              "RelativeToolTip": "TPV\\Views\\InicioSesion\\InicioSesionUsuario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\InicioSesion\\InicioSesionUsuario.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T15:17:26.858Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-05-06T15:17:26.858Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
               "Title": "Cobrar.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Mostrar\\Cobrar.cs",
+              "DocumentMoniker": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\TPV\\Views\\Mostrar\\Cobrar.cs",
               "RelativeDocumentMoniker": "TPV\\Views\\Mostrar\\Cobrar.cs",
               "ToolTip": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Mostrar\\Cobrar.cs [Dise\u00F1o]",
-              "RelativeToolTip": "TPV\\Views\\Mostrar\\Cobrar.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Mostrar\\Cobrar.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T12:31:16.166Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-05-07T12:31:16.166Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
               "Title": "Cobrar.cs",
-              "DocumentMoniker": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Mostrar\\Cobrar.cs",
+              "DocumentMoniker": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\TPV\\Views\\Mostrar\\Cobrar.cs",
               "RelativeDocumentMoniker": "TPV\\Views\\Mostrar\\Cobrar.cs",
-              "ToolTip": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Mostrar\\Cobrar.cs",
+              "ToolTip": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\TPV\\Views\\Mostrar\\Cobrar.cs",
               "RelativeToolTip": "TPV\\Views\\Mostrar\\Cobrar.cs",
               "ViewState": "AgIAABEAAADgzMzMzMwrwCIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T12:31:19.62Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T12:31:19.62Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
               "Title": "LandingAdmin.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Landings\\LandingAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\TPV\\Views\\Landings\\LandingAdmin.cs",
               "RelativeDocumentMoniker": "TPV\\Views\\Landings\\LandingAdmin.cs",
               "ToolTip": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Landings\\LandingAdmin.cs [Dise\u00F1o]",
-              "RelativeToolTip": "TPV\\Views\\Landings\\LandingAdmin.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Landings\\LandingAdmin.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T15:14:44.285Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-05-06T15:14:44.285Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 26,
               "Title": "Calculadora.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Menu\\Calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\TPV\\Views\\Menu\\Calculadora.cs",
               "RelativeDocumentMoniker": "TPV\\Views\\Menu\\Calculadora.cs",
               "ToolTip": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Menu\\Calculadora.cs [Dise\u00F1o]",
-              "RelativeToolTip": "TPV\\Views\\Menu\\Calculadora.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Menu\\Calculadora.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T08:35:19.57Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-05-08T08:35:19.57Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 27,
               "Title": "AjustesLandingUsuario.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Mostrar\\AjustesLandingUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\TPV\\Views\\Mostrar\\AjustesLandingUsuario.cs",
               "RelativeDocumentMoniker": "TPV\\Views\\Mostrar\\AjustesLandingUsuario.cs",
               "ToolTip": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Mostrar\\AjustesLandingUsuario.cs [Dise\u00F1o]",
-              "RelativeToolTip": "TPV\\Views\\Mostrar\\AjustesLandingUsuario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Mostrar\\AjustesLandingUsuario.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T09:28:01.435Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-05-08T09:28:01.435Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 28,
               "Title": "Cantidad.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Mostrar\\Cantidad.cs",
+              "DocumentMoniker": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\TPV\\Views\\Mostrar\\Cantidad.cs",
               "RelativeDocumentMoniker": "TPV\\Views\\Mostrar\\Cantidad.cs",
               "ToolTip": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Mostrar\\Cantidad.cs [Dise\u00F1o]",
-              "RelativeToolTip": "TPV\\Views\\Mostrar\\Cantidad.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Mostrar\\Cantidad.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T12:27:48.409Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-05-07T12:27:48.409Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 29,
               "Title": "cantidaddecimales.cs",
-              "DocumentMoniker": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Mostrar\\cantidaddecimales.cs",
+              "DocumentMoniker": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\TPV\\Views\\Mostrar\\cantidaddecimales.cs",
               "RelativeDocumentMoniker": "TPV\\Views\\Mostrar\\cantidaddecimales.cs",
-              "ToolTip": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Mostrar\\cantidaddecimales.cs",
+              "ToolTip": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\TPV\\Views\\Mostrar\\cantidaddecimales.cs",
               "RelativeToolTip": "TPV\\Views\\Mostrar\\cantidaddecimales.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T07:29:33.872Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T07:29:33.872Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 31,
               "Title": "ConfirmarCierreCaja.cs",
-              "DocumentMoniker": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Mostrar\\ConfirmarCierreCaja.cs",
+              "DocumentMoniker": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\TPV\\Views\\Mostrar\\ConfirmarCierreCaja.cs",
               "RelativeDocumentMoniker": "TPV\\Views\\Mostrar\\ConfirmarCierreCaja.cs",
-              "ToolTip": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Mostrar\\ConfirmarCierreCaja.cs",
+              "ToolTip": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\TPV\\Views\\Mostrar\\ConfirmarCierreCaja.cs",
               "RelativeToolTip": "TPV\\Views\\Mostrar\\ConfirmarCierreCaja.cs",
               "ViewState": "AgIAAEYAAAAAAAAAAAAqwF4AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T13:52:41.931Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T13:52:41.931Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 32,
               "Title": "ConfirmarCierreCaja.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Mostrar\\ConfirmarCierreCaja.cs",
+              "DocumentMoniker": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\TPV\\Views\\Mostrar\\ConfirmarCierreCaja.cs",
               "RelativeDocumentMoniker": "TPV\\Views\\Mostrar\\ConfirmarCierreCaja.cs",
               "ToolTip": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Mostrar\\ConfirmarCierreCaja.cs [Dise\u00F1o]",
-              "RelativeToolTip": "TPV\\Views\\Mostrar\\ConfirmarCierreCaja.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Mostrar\\ConfirmarCierreCaja.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T07:52:07.032Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-05-08T07:52:07.032Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 30,
               "Title": "cantidaddecimales.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Mostrar\\cantidaddecimales.cs",
+              "DocumentMoniker": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\TPV\\Views\\Mostrar\\cantidaddecimales.cs",
               "RelativeDocumentMoniker": "TPV\\Views\\Mostrar\\cantidaddecimales.cs",
               "ToolTip": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Mostrar\\cantidaddecimales.cs [Dise\u00F1o]",
-              "RelativeToolTip": "TPV\\Views\\Mostrar\\cantidaddecimales.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Mostrar\\cantidaddecimales.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T09:27:29.597Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-05-08T09:27:29.597Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 33,
               "Title": "MostrarProductos.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Mostrar\\MostrarProductos.cs",
+              "DocumentMoniker": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\TPV\\Views\\Mostrar\\MostrarProductos.cs",
               "RelativeDocumentMoniker": "TPV\\Views\\Mostrar\\MostrarProductos.cs",
               "ToolTip": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Mostrar\\MostrarProductos.cs [Dise\u00F1o]",
-              "RelativeToolTip": "TPV\\Views\\Mostrar\\MostrarProductos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Mostrar\\MostrarProductos.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T10:34:56.719Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-05-07T10:34:56.719Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 34,
               "Title": "MostrarProductos.cs",
-              "DocumentMoniker": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Mostrar\\MostrarProductos.cs",
+              "DocumentMoniker": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\TPV\\Views\\Mostrar\\MostrarProductos.cs",
               "RelativeDocumentMoniker": "TPV\\Views\\Mostrar\\MostrarProductos.cs",
-              "ToolTip": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Mostrar\\MostrarProductos.cs",
+              "ToolTip": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\TPV\\Views\\Mostrar\\MostrarProductos.cs",
               "RelativeToolTip": "TPV\\Views\\Mostrar\\MostrarProductos.cs",
               "ViewState": "AgIAAM0AAABAxszMzEwlwNYAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T10:34:59.854Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T10:34:59.854Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 35,
               "Title": "MostrarUsuarios.cs",
-              "DocumentMoniker": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Mostrar\\MostrarUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\TPV\\Views\\Mostrar\\MostrarUsuarios.cs",
               "RelativeDocumentMoniker": "TPV\\Views\\Mostrar\\MostrarUsuarios.cs",
-              "ToolTip": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Mostrar\\MostrarUsuarios.cs",
+              "ToolTip": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\TPV\\Views\\Mostrar\\MostrarUsuarios.cs",
               "RelativeToolTip": "TPV\\Views\\Mostrar\\MostrarUsuarios.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T07:28:13.541Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T07:28:13.541Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 37,
               "Title": "Tracking.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Mostrar\\Tracking.cs",
+              "DocumentMoniker": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\TPV\\Views\\Mostrar\\Tracking.cs",
               "RelativeDocumentMoniker": "TPV\\Views\\Mostrar\\Tracking.cs",
               "ToolTip": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Mostrar\\Tracking.cs [Dise\u00F1o]",
-              "RelativeToolTip": "TPV\\Views\\Mostrar\\Tracking.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Mostrar\\Tracking.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T10:35:11.486Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-05-07T10:35:11.486Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 38,
               "Title": "Ajustes.cs",
-              "DocumentMoniker": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Registros\\Ajustes.cs",
+              "DocumentMoniker": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\TPV\\Views\\Registros\\Ajustes.cs",
               "RelativeDocumentMoniker": "TPV\\Views\\Registros\\Ajustes.cs",
-              "ToolTip": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Registros\\Ajustes.cs",
+              "ToolTip": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\TPV\\Views\\Registros\\Ajustes.cs",
               "RelativeToolTip": "TPV\\Views\\Registros\\Ajustes.cs",
               "ViewState": "AgIAADUAAAAAaGZmZmbev1AAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T10:35:06.501Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T10:35:06.501Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 36,
               "Title": "MostrarUsuarios.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Mostrar\\MostrarUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\TPV\\Views\\Mostrar\\MostrarUsuarios.cs",
               "RelativeDocumentMoniker": "TPV\\Views\\Mostrar\\MostrarUsuarios.cs",
               "ToolTip": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Mostrar\\MostrarUsuarios.cs [Dise\u00F1o]",
-              "RelativeToolTip": "TPV\\Views\\Mostrar\\MostrarUsuarios.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Mostrar\\MostrarUsuarios.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T07:37:16.04Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-05-08T07:37:16.04Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 39,
               "Title": "Ajustes.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Registros\\Ajustes.cs",
+              "DocumentMoniker": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\TPV\\Views\\Registros\\Ajustes.cs",
               "RelativeDocumentMoniker": "TPV\\Views\\Registros\\Ajustes.cs",
               "ToolTip": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Registros\\Ajustes.cs [Dise\u00F1o]",
-              "RelativeToolTip": "TPV\\Views\\Registros\\Ajustes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Registros\\Ajustes.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T10:35:04.69Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-05-07T10:35:04.69Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 40,
               "Title": "RegistroProducto.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Registros\\RegistroProducto.cs",
+              "DocumentMoniker": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\TPV\\Views\\Registros\\RegistroProducto.cs",
               "RelativeDocumentMoniker": "TPV\\Views\\Registros\\RegistroProducto.cs",
               "ToolTip": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Registros\\RegistroProducto.cs [Dise\u00F1o]",
-              "RelativeToolTip": "TPV\\Views\\Registros\\RegistroProducto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Registros\\RegistroProducto.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T11:57:37.046Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-05-07T11:57:37.046Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 41,
               "Title": "MostrarFacturas.cs",
-              "DocumentMoniker": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Mostrar\\MostrarFacturas.cs",
+              "DocumentMoniker": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\TPV\\Views\\Mostrar\\MostrarFacturas.cs",
               "RelativeDocumentMoniker": "TPV\\Views\\Mostrar\\MostrarFacturas.cs",
-              "ToolTip": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Mostrar\\MostrarFacturas.cs",
+              "ToolTip": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\TPV\\Views\\Mostrar\\MostrarFacturas.cs",
               "RelativeToolTip": "TPV\\Views\\Mostrar\\MostrarFacturas.cs",
               "ViewState": "AgIAALUAAACAAAAAAAAbwGsBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T07:22:55.276Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T07:22:55.276Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 42,
               "Title": "FacPosMetodos.cs",
-              "DocumentMoniker": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\Datos\\Servicios\\FacPosMetodos.cs",
+              "DocumentMoniker": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\Datos\\Servicios\\FacPosMetodos.cs",
               "RelativeDocumentMoniker": "Datos\\Servicios\\FacPosMetodos.cs",
-              "ToolTip": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\Datos\\Servicios\\FacPosMetodos.cs",
+              "ToolTip": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\Datos\\Servicios\\FacPosMetodos.cs",
               "RelativeToolTip": "Datos\\Servicios\\FacPosMetodos.cs",
               "ViewState": "AgIAAGEAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T00:05:59.297Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T00:05:59.297Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 43,
               "Title": "FacturaDatos.cs",
-              "DocumentMoniker": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\Datos\\Modelos\\FacturaDatos.cs",
+              "DocumentMoniker": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\Datos\\Modelos\\FacturaDatos.cs",
               "RelativeDocumentMoniker": "Datos\\Modelos\\FacturaDatos.cs",
-              "ToolTip": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\Datos\\Modelos\\FacturaDatos.cs",
+              "ToolTip": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\Datos\\Modelos\\FacturaDatos.cs",
               "RelativeToolTip": "Datos\\Modelos\\FacturaDatos.cs",
               "ViewState": "AgIAABMAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T00:05:53.557Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-19T00:05:53.557Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 44,
               "Title": "MostrarProductos.Designer.cs",
-              "DocumentMoniker": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Mostrar\\MostrarProductos.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\TPV\\Views\\Mostrar\\MostrarProductos.Designer.cs",
               "RelativeDocumentMoniker": "TPV\\Views\\Mostrar\\MostrarProductos.Designer.cs",
-              "ToolTip": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Mostrar\\MostrarProductos.Designer.cs",
+              "ToolTip": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\TPV\\Views\\Mostrar\\MostrarProductos.Designer.cs",
               "RelativeToolTip": "TPV\\Views\\Mostrar\\MostrarProductos.Designer.cs",
               "ViewState": "AgIAAHIAAAAAAAAAAAASwIsAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T10:38:12.5Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T10:38:12.5Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 45,
               "Title": "LandingAdmin.cs",
-              "DocumentMoniker": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Landings\\LandingAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\TPV\\Views\\Landings\\LandingAdmin.cs",
               "RelativeDocumentMoniker": "TPV\\Views\\Landings\\LandingAdmin.cs",
-              "ToolTip": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Landings\\LandingAdmin.cs",
+              "ToolTip": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\TPV\\Views\\Landings\\LandingAdmin.cs",
               "RelativeToolTip": "TPV\\Views\\Landings\\LandingAdmin.cs",
               "ViewState": "AgIAADUAAAAAAAAAAAAcwE0AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T09:48:21.098Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T09:48:21.098Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 46,
               "Title": "LandingUsuario.Designer.cs",
-              "DocumentMoniker": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Landings\\LandingUsuario.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\TPV\\Views\\Landings\\LandingUsuario.Designer.cs",
               "RelativeDocumentMoniker": "TPV\\Views\\Landings\\LandingUsuario.Designer.cs",
-              "ToolTip": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Landings\\LandingUsuario.Designer.cs",
+              "ToolTip": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\TPV\\Views\\Landings\\LandingUsuario.Designer.cs",
               "RelativeToolTip": "TPV\\Views\\Landings\\LandingUsuario.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T09:39:07.09Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T09:39:07.09Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 47,
               "Title": "InicioSesionUsuario.cs",
-              "DocumentMoniker": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\InicioSesion\\InicioSesionUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\TPV\\Views\\InicioSesion\\InicioSesionUsuario.cs",
               "RelativeDocumentMoniker": "TPV\\Views\\InicioSesion\\InicioSesionUsuario.cs",
-              "ToolTip": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\InicioSesion\\InicioSesionUsuario.cs",
+              "ToolTip": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\TPV\\Views\\InicioSesion\\InicioSesionUsuario.cs",
               "RelativeToolTip": "TPV\\Views\\InicioSesion\\InicioSesionUsuario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T09:38:25.429Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T09:38:25.429Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 48,
               "Title": "RegistroProducto.cs",
-              "DocumentMoniker": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Registros\\RegistroProducto.cs",
+              "DocumentMoniker": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\TPV\\Views\\Registros\\RegistroProducto.cs",
               "RelativeDocumentMoniker": "TPV\\Views\\Registros\\RegistroProducto.cs",
-              "ToolTip": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Registros\\RegistroProducto.cs",
+              "ToolTip": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\TPV\\Views\\Registros\\RegistroProducto.cs",
               "RelativeToolTip": "TPV\\Views\\Registros\\RegistroProducto.cs",
               "ViewState": "AgIAAEkAAAAAAAAAAAAiwF8AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T07:15:07.425Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-08T07:15:07.425Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 49,
               "Title": "FacturaNegocio.cs",
-              "DocumentMoniker": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\Negocio\\Modelos\\FacturaNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\Negocio\\Modelos\\FacturaNegocio.cs",
               "RelativeDocumentMoniker": "Negocio\\Modelos\\FacturaNegocio.cs",
-              "ToolTip": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\Negocio\\Modelos\\FacturaNegocio.cs",
+              "ToolTip": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\Negocio\\Modelos\\FacturaNegocio.cs",
               "RelativeToolTip": "Negocio\\Modelos\\FacturaNegocio.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T12:51:36.891Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T12:51:36.891Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 50,
               "Title": "Cantidad.cs",
-              "DocumentMoniker": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Mostrar\\Cantidad.cs",
+              "DocumentMoniker": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\TPV\\Views\\Mostrar\\Cantidad.cs",
               "RelativeDocumentMoniker": "TPV\\Views\\Mostrar\\Cantidad.cs",
-              "ToolTip": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Mostrar\\Cantidad.cs",
+              "ToolTip": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\TPV\\Views\\Mostrar\\Cantidad.cs",
               "RelativeToolTip": "TPV\\Views\\Mostrar\\Cantidad.cs",
               "ViewState": "AgIAACEAAAAAwJyZmZmpvy4AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T12:27:53.719Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T12:27:53.719Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 53,
               "Title": "Tracking.cs",
-              "DocumentMoniker": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Mostrar\\Tracking.cs",
+              "DocumentMoniker": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\TPV\\Views\\Mostrar\\Tracking.cs",
               "RelativeDocumentMoniker": "TPV\\Views\\Mostrar\\Tracking.cs",
-              "ToolTip": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Mostrar\\Tracking.cs",
+              "ToolTip": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\TPV\\Views\\Mostrar\\Tracking.cs",
               "RelativeToolTip": "TPV\\Views\\Mostrar\\Tracking.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T10:35:13.54Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T10:35:13.54Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 52,
               "Title": "TrackServicio.cs",
-              "DocumentMoniker": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\Negocio\\Servicios\\TrackServicio.cs",
+              "DocumentMoniker": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\Negocio\\Servicios\\TrackServicio.cs",
               "RelativeDocumentMoniker": "Negocio\\Servicios\\TrackServicio.cs",
-              "ToolTip": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\Negocio\\Servicios\\TrackServicio.cs",
+              "ToolTip": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\Negocio\\Servicios\\TrackServicio.cs",
               "RelativeToolTip": "Negocio\\Servicios\\TrackServicio.cs",
               "ViewState": "AgIAAAMAAAAAGzMzMzPvvzgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T10:36:26.183Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T10:36:26.183Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 51,
               "Title": "TrackingMetodos.cs",
-              "DocumentMoniker": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\Datos\\Servicios\\TrackingMetodos.cs",
+              "DocumentMoniker": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\Datos\\Servicios\\TrackingMetodos.cs",
               "RelativeDocumentMoniker": "Datos\\Servicios\\TrackingMetodos.cs",
-              "ToolTip": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\Datos\\Servicios\\TrackingMetodos.cs",
+              "ToolTip": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\Datos\\Servicios\\TrackingMetodos.cs",
               "RelativeToolTip": "Datos\\Servicios\\TrackingMetodos.cs",
               "ViewState": "AgIAACUAAAAAAAAAAAAAwE4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T10:37:22.216Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T10:37:22.216Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 54,
               "Title": "MostrarFacturas.Designer.cs",
-              "DocumentMoniker": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Mostrar\\MostrarFacturas.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\TPV\\Views\\Mostrar\\MostrarFacturas.Designer.cs",
               "RelativeDocumentMoniker": "TPV\\Views\\Mostrar\\MostrarFacturas.Designer.cs",
-              "ToolTip": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\TPV\\Views\\Mostrar\\MostrarFacturas.Designer.cs",
+              "ToolTip": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\TPV\\Views\\Mostrar\\MostrarFacturas.Designer.cs",
               "RelativeToolTip": "TPV\\Views\\Mostrar\\MostrarFacturas.Designer.cs",
               "ViewState": "AgIAAEYAAAAAAAAAAAAiwFUAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-07T10:26:19.199Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-07T10:26:19.199Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 56,
               "Title": "ProductoDatos.cs",
-              "DocumentMoniker": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\Datos\\Modelos\\ProductoDatos.cs",
+              "DocumentMoniker": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\Datos\\Modelos\\ProductoDatos.cs",
               "RelativeDocumentMoniker": "Datos\\Modelos\\ProductoDatos.cs",
-              "ToolTip": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\Datos\\Modelos\\ProductoDatos.cs",
+              "ToolTip": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\Datos\\Modelos\\ProductoDatos.cs",
               "RelativeToolTip": "Datos\\Modelos\\ProductoDatos.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T16:06:01.37Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T16:06:01.37Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 57,
               "Title": "ProductoNegocio.cs",
-              "DocumentMoniker": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\Negocio\\Modelos\\ProductoNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\Negocio\\Modelos\\ProductoNegocio.cs",
               "RelativeDocumentMoniker": "Negocio\\Modelos\\ProductoNegocio.cs",
-              "ToolTip": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\Negocio\\Modelos\\ProductoNegocio.cs",
+              "ToolTip": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\Negocio\\Modelos\\ProductoNegocio.cs",
               "RelativeToolTip": "Negocio\\Modelos\\ProductoNegocio.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T16:06:25.193Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T16:06:25.193Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 55,
               "Title": "ProductoServicio.cs",
-              "DocumentMoniker": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\Negocio\\Servicios\\ProductoServicio.cs",
+              "DocumentMoniker": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\Negocio\\Servicios\\ProductoServicio.cs",
               "RelativeDocumentMoniker": "Negocio\\Servicios\\ProductoServicio.cs",
-              "ToolTip": "C:\\casa\\tfg\\TFGUnaiPastor\\TPV\\Negocio\\Servicios\\ProductoServicio.cs",
+              "ToolTip": "C:\\Users\\unaip\\OneDrive\\Documentos\\pruebainstalar\\inst\\github\\tfg\\TPV\\Negocio\\Servicios\\ProductoServicio.cs",
               "RelativeToolTip": "Negocio\\Servicios\\ProductoServicio.cs",
               "ViewState": "AgIAAC4AAAAANjMzMzP1v10AAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T16:05:22.714Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T16:05:22.714Z"
             }
           ]
         }

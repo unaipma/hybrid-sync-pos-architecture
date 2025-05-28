@@ -72,15 +72,27 @@ namespace Negocio.Servicios
             FacturaNegocio f = new FacturaNegocio
             {
                 Id = facturaDatos.Id,
-                Vendedor = new UsuarioNegocio
-                {
-                    Id = facturaDatos.Vendedor.Id,
-                    Nombre = facturaDatos.Vendedor.Nombre,
-                    Rol = facturaDatos.Vendedor.Rol,
-                    Correo = facturaDatos.Vendedor.Correo,
-                    Localizacion = facturaDatos.Vendedor.Localizacion,
-                    Foto = ususer.parseByteImage(facturaDatos.Vendedor.Foto)
-                },
+
+                Vendedor = facturaDatos.Vendedor != null
+                    ? new UsuarioNegocio
+                    {
+                        Id = facturaDatos.Vendedor.Id,
+                        Nombre = facturaDatos.Vendedor.Nombre,
+                        Rol = facturaDatos.Vendedor.Rol,
+                        Correo = facturaDatos.Vendedor.Correo,
+                        Localizacion = facturaDatos.Vendedor.Localizacion,
+                        Foto = ususer.parseByteImage(facturaDatos.Vendedor.Foto)
+                    }
+                    : new UsuarioNegocio
+                    {
+                        Id = 0, 
+                        Nombre = "Usuario eliminado",
+                        Rol = "Desconocido",
+                        Correo = "eliminado@dominio.com",
+                        Localizacion = "Desconocida",
+                        Foto = null
+                    },
+
                 Total = facturaDatos.Total,
                 FechaVenta = facturaDatos.FechaVenta,
                 ProductosVendidos = facturaDatos.ProductosVendidos
