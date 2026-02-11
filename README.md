@@ -1,97 +1,75 @@
-# TPV Bar - Terminal Punto de Venta para Hostelería
+#  Retail POS System (Hybrid Cloud Architecture)
 
-**Desarrollado por:** Unai Pastor Martínez  
-**Proyecto de Fin de Grado - CFGS Desarrollo de Aplicaciones Web (MULWEB)**
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-## Descripción
+> **Capstone Project:** An enterprise-grade Point of Sale (POS) solution featuring **Offline-First architecture** and hybrid data synchronization.
 
-Este proyecto es un sistema TPV (Terminal Punto de Venta) orientado a la gestión eficiente de bares o pequeños establecimientos de hostelería. Se trata de una aplicación de escritorio desarrollada en **C#**, utilizando **.NET Framework** y **WinForms**, con una arquitectura en tres capas que garantiza una separación clara entre la presentación, lógica de negocio y acceso a datos.
+##  Overview
 
-El sistema ofrece:
+This project is a comprehensive desktop application designed for retail and hospitality environments where internet connectivity can be intermittent. Unlike traditional web-based POS systems, this solution guarantees **100% uptime** by implementing a local-first database strategy with background cloud synchronization.
 
-- Gestión centralizada de productos y usuarios (rol administrador).
-- Registro de ventas y generación de facturas/tickets (rol empleado).
-- **Modo offline** gracias a la integración de **SQLite**.
-- Sincronización en la nube mediante **PostgreSQL** alojado en **Neon.tech**.
-- Seguridad con hashing de contraseñas y control de roles.
+Built with **C#** and **WinForms** on the .NET Framework, it demonstrates a robust implementation of standard software engineering patterns, including Layered Architecture (N-Tier) and secure cryptographic practices.
 
 ---
 
-## Tecnologías utilizadas
+##  Technical Architecture & Key Features
 
-- `C#` y `.NET Framework`
-- `WinForms` para interfaz gráfica
-- `PostgreSQL` (cloud - Neon.tech)
-- `SQLite` (local)
-- `iText7` para generación de PDFs
-- `BouncyCastle` para soporte criptográfico
-- `Advanced Installer` para empaquetado
+###  1. Hybrid Data Synchronization (Offline-First)
+The core engineering challenge solved in this project is data consistency in unstable network environments.
+* **Local Persistence:** Uses **SQLite** to store transactions locally, ensuring zero latency during sales.
+* **Cloud Sync:** Automatically synchronizes data with a remote **PostgreSQL cluster (Neon.tech)** when connectivity is restored.
+* **Conflict Resolution:** Implements logic to handle data merging between local and cloud states.
 
----
+###  2. Security & RBAC
+* **Role-Based Access Control:** Distinct privileges for *Administrators* (Inventory, Users, Analytics) and *Staff* (Sales, Daily Closure).
+* **Cryptography:** User credentials and sensitive data are protected using **SHA-256 hashing** via the **BouncyCastle** library, ensuring industry-standard security.
 
-## Características principales
-
--  Aplicación de escritorio para Windows
--  Inicio de sesión por rol (empleado sin contraseña / administrador con credenciales)
--  Sincronización de datos online/offline
--  Facturación y generación de tickets PDF
--  Estadísticas de ventas y cierre diario
--  CRUD completo de productos y usuarios
--  Filtros de búsqueda avanzados
--  Instalación mediante `.exe` o `.msi`
+###  3. Reporting & Analytics
+* Integrated **iText7** engine to generate dynamic PDF invoices and daily sales reports.
+* Real-time dashboard for sales tracking and inventory levels.
 
 ---
 
-## Instalación
+##  Tech Stack
 
-1. Descarga el instalador `.msi` generado con **Advanced Installer** desde la sección de releases.
-2. Ejecuta el instalador como administrador.
-3. Asegúrate de tener conexión a Internet para sincronizar datos por primera vez.
-4. Usa el **manual de instalación** incluido para más detalles.
-
----
-
-## Manuales incluidos
-
--  **Manual de Usuario**: para empleados
--  **Manual de Administrador**: para tareas de gestión
--  **Manual de Instalación**: pasos para desplegar correctamente la app
+| Component | Technology | Description |
+| :--- | :--- | :--- |
+| **Language** | **C#** | Core logic and Object-Oriented design. |
+| **Framework** | **.NET Framework** | Windows Forms (WinForms) for the UI. |
+| **Cloud DB** | **PostgreSQL** | Hosted on **Neon.tech** for centralized data storage. |
+| **Local DB** | **SQLite** | Embedded database for offline capability. |
+| **Security** | **BouncyCastle** | Cryptographic APIs for password hashing. |
+| **Deployment** | **Advanced Installer** | CI/CD pipeline for generating MSI installers. |
+| **Reporting** | **iText7** | PDF generation library. |
 
 ---
 
-## Posibles ampliaciones
+##  Installation & Deployment
 
-- Versión web o móvil para estadísticas remotas
-- Sincronización en tiempo real entre SQLite y PostgreSQL
-- Módulo de inventario
-- Gestión de mesas
+This project includes a production-ready installer generated via **Advanced Installer**.
 
----
-
-## Autor
-
-**Unai Pastor Martínez**  
-Trabajo de Fin de Grado 2025
+1.  Navigate to the **Releases** section (or the `Instaladores` folder).
+2.  Download the latest `.msi` package.
+3.  Run the installer as Administrator.
+4.  *Note: Initial setup requires an internet connection to fetch the initial product catalog from the cloud database.*
 
 ---
 
-## Licencia de Usuario Final (EULA)
+##  Project Structure
 
-### 1. ACEPTACIÓN DE LA LICENCIA
-Al instalar o utilizar esta aplicación, usted acepta quedar vinculado por los términos de esta Licencia de Usuario Final (EULA). Si no está de acuerdo con los términos, no instale ni utilice esta aplicación.
+* `/TPV` - Source code (Forms, Business Logic Layer, Data Access Layer).
+* `/Instaladores` - Compiled MSI packages for deployment.
+* `/Docs` - Technical documentation and user manuals.
 
-### 2. LICENCIA DE USO
-Esta aplicación es un proyecto académico desarrollado con fines educativos. Se concede al usuario una licencia no exclusiva, no transferible y gratuita para usar esta aplicación únicamente con fines personales, educativos o de demostración.
+---
 
-### 3. DERECHOS DE AUTOR
-Este software y toda su documentación asociada están protegidos por derechos de autor. Todos los derechos están reservados por el autor. Queda prohibida su reproducción, distribución o modificación sin autorización expresa.
+##  Author
 
-### 4. LIMITACIÓN DE RESPONSABILIDAD
-El autor no se hace responsable de ningún daño, pérdida de datos o perjuicio derivado del uso de esta aplicación. El uso del software es bajo su propio riesgo.
+**Unai Pastor**
+*Software Engineer specializing in .NET & Modern Web Architectures.*
 
-### 5. TERMINACIÓN
-Esta licencia se terminará automáticamente si incumple cualquiera de sus términos. En tal caso, deberá eliminar todas las copias del software de sus dispositivos.
-
-### 6. CONTACTO
-Para cualquier duda o comentario sobre esta licencia, por favor contacte al autor.
-
+---
+*Disclaimer: This software was developed as a Capstone Project to demonstrate proficiency in full-stack desktop development and database architecture.*
